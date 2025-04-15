@@ -6,4 +6,4 @@
 
 ---
 
-- `cards`: A simple deck of cards games written in go
+- `cards game`: A simple deck of cards games written in go
